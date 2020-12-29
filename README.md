@@ -1,7 +1,7 @@
-# goople-places-api-nodejs
-Google places api sample project using Node.js.
+# Google Places API Node.js
+Google Places API sample project using Node.js.
 
-This projects contains sample calls to the google places api using the [google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) client library.
+This projects contains sample calls to the Google Places API using the [google-maps-services-js](https://github.com/googlemaps/google-maps-services-js) client library.
 
 ## Prerequisites
 - [Node.js](https://nodejs.org/en/) installed
