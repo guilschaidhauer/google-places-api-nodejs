@@ -9,7 +9,7 @@ This projects contains sample calls to the Google Places API using the [google-m
 ## Project setup
 1. Clone this repository locally and navigate into it
     ```sh
-    git clone https://github.com/guilschaidhauer/goople-places-api-nodejs.git
+    git clone https://github.com/guilschaidhauer/google-places-api-nodejs.git
     cd google-places-api-nodejs
     ```
 2. Install all dependencies
