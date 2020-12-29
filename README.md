@@ -22,7 +22,7 @@ This projects contains sample calls to the Google Places API using the [google-m
 4. Add your Google Places API Key on the "index.js" file on the line "5" where it says "ENTER_YOUR_API_KEY_HERE"
 
 ## Running project locally
-1. Run the "index.js" file
+1. Run the project
     ```sh
-    node index.js
+    npm start
     ```
